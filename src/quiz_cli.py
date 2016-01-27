@@ -1,3 +1,5 @@
+#!/bin/python
+
 from random import randrange
 
 
